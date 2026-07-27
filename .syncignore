@@ -13,3 +13,7 @@ package-lock.json
 !/src/components/*
 
 /src/contexts/settingsContext.tsx
+
+docker-compose.yml
+Dockerfile
+.dockerignore
